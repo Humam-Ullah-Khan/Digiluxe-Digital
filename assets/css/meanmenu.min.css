@@ -121,7 +121,8 @@ a.meanmenu-reveal{display:none}
 }
 .mean-container .mean-bar::before {
     color: #fff;
-    content: "Dexon";
+    content: "Digilux Digital";
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 28px;
     font-weight: 600;
     left: 10px;
